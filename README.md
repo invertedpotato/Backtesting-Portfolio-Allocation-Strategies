@@ -14,7 +14,7 @@ This project backtests 6 portfolio allocation strategies on 30 industry monthly 
 | Rolling Max Sharpe (MSR) | Maximizes Sharpe ratio using past 10-60 months |
 | Dynamic MSR | MSR with dynamic allocation to risk-free asset |
 | Rolling Global Minimum Variance (GMV) | Minimizes portfolio volatility using past 10-60 months|
-| Dynamic GMV | GMV with dynamic allocation based to risk-free asset |
+| Dynamic GMV | GMV with dynamic allocation to risk-free asset |
 | Three-Asset Dynamic | Allocates between risk-free, GMV, and MSR |
 | Rolling Max Return | 100% in highest expected-return asset|
 
