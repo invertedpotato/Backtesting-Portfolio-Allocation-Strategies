@@ -34,7 +34,6 @@ This project backtests 6 portfolio allocation strategies on 30 industry monthly 
 - Sharpe Ratio
 - Maximum Drawdown
 - Skewness & Kurtosis
-- Historical VaR
 - Historical CVaR (Expected Shortfall)
 - Cornish-Fisher Modified VaR (accounts for non-normal returns)
 
