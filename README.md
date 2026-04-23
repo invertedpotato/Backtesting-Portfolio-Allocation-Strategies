@@ -62,4 +62,4 @@ This project backtests 6 portfolio allocation strategies on 30 industry monthly 
 
 ## Author
 
-Ashvin Budhirja | ashvinbudhiraja9@gmail.com | 
+Ashvin Budhiraja | ashvinbudhiraja9@gmail.com | 
