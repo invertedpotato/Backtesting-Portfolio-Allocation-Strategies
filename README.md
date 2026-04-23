@@ -57,7 +57,9 @@ This project backtests 6 portfolio allocation strategies on 30 industry monthly 
 
 - `BacktestingStrategies.ipynb` - Main analysis notebook
 - `requirements.txt` - Package dependencies
-- `data/` - Industry returns data (30 industries, 1926-2018)
+- `ind30_m_number_of_firms` - Number of firms in each industry data (30 industries, 1926-2018)
+- `ind30_m_size` - Industry size data (30 industries, 1926-2018)
+- `ind30_monthly_returns` - Industry returns data (30 industries, 1926-2018)
 
 ## Author
 
